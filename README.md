@@ -27,5 +27,4 @@ git log
 
 
 👩‍💻 Autora  
-Desenvolvido por Ingrid, durante o curso Git e GitHub: compartilhando e colaborando em projetos da Alura.  
-Programa Fly - Mulheres in Tech  
+Desenvolvido por Ingrid, durante o Programa Fly - Mulheres in Tech  
